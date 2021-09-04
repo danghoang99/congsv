@@ -1,5 +1,5 @@
 .app {
-    background-image: url(/assets/image/splash-bg.png);
+    background-image: url(../image/splash-bg.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
