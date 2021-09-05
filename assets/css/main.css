@@ -491,6 +491,6 @@
 .slidebars-list--child {
     display: none;
 }
-.slidebars-item__link:focus ~ .slidebars-list--child {
+.slidebarrs-item:hover .slidebars-list--child {
     display: block;
 }
